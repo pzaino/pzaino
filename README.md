@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Assembly, c'mon I know you want to know more about it!
 - 📫 How to reach me: https://paolozaino.wordpress.com/contact/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The first computer virus was created in 1986, the same year I started coding. Now before you jump to conclusions, I wasn't involved at all :D 
+- ⚡ Fun fact: The first computer virus was created in 1986, the same year I started coding. Now, before you jump to conclusions, I wasn't involved at all 😄
 
 Check out my blog here if you want to read some of my tutorials and more: https://paolozaino.wordpress.com/
 
