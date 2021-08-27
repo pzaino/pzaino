@@ -14,9 +14,17 @@ Check out my blog here if you want to read some of my tutorials and more: https:
 Thanks for reading!
 
 <details>
-    <summary>Click for Languages</summary>
+    <summary>Click for my most used Programming Languages list and stats!</summary>
     <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzaino&layout=compact)](https://github.com/pzaino/github-readme-stats" 
+        <br>
+    </p>
+</details>
+
+<details>
+    <summary>Click for My GitHub Stats!</summary>
+    <p align="center">
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=pzaino&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="PZaino's github stats"/>
         <br>
     </p>
 </details>
