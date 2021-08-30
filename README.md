@@ -1,5 +1,8 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/PaoloFabioZaino?style=social)](https://twitter.com/PaoloFabioZaino)
-
+[![Linkedin Badge](https://img.shields.io/badge/-paolofabiozaino?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paolofabiozaino/)](https://www.linkedin.com/in/paolofabiozainon/)
+<!--
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCOaGksYHwlmVPKghnWN-duw?style=social)](https://youtube.com/channel/UCOaGksYHwlmVPKghnWN-duw)
+-->
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of stuff! From Kernel development on Linux and on different Architectures, to write tech blogs, to enjoy coding random stuff, improve my personal automation and more.
