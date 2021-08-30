@@ -32,5 +32,5 @@ Thanks for reading!
     </p>
 </details>
 <p align="right">
-    <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino">
+    <img align="right" width="80" height="24" src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino">
 </p>
