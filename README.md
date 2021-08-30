@@ -9,6 +9,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCOaGksYHwlmVPKghnWN-duw?style=social)](https://youtube.com/channel/UCOaGksYHwlmVPKghnWN-duw)
 -->
 </p>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of stuff! From Kernel development on Linux and on different Architectures, to write tech blogs, to enjoy coding random stuff, improve my personal automation and more.
