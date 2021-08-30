@@ -31,5 +31,5 @@ Thanks for reading!
     </p>
 </details>
 <p align="right">
-    [![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino)](https://github.com/pzaino)
+    <a href="https://github.com/pzaino"><img src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino" /></a>
 </p>
