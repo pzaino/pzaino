@@ -1,6 +1,5 @@
-<!--
+<img align="left" src="https://img.shields.io/twitter/follow/PaoloFabioZaino?style=social">
 
--->
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of stuff! From Kernel development on Linux and on different Architectures, to write tech blogs, to enjoy coding random stuff, improve my personal automation and more.
