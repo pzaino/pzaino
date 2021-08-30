@@ -39,6 +39,20 @@ Thanks for reading!
         <br>
     </p>
 </details>
-<p align="right">
-    <a href="https://github.com/pzaino"><img src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino" /></a>
+
+### Favourite Programming Languages
+
+For work I do not mind really, whatever is fine, at work is the project that trully matters and the customers.
+
+For my free time and fun I like to play with (from top faorite to less favorite):
+
+<p align="left">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <p align="right">
+        <a href="https://github.com/pzaino"><img src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino" /></a>
+    </p>
 </p>
