@@ -1,3 +1,4 @@
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lot of stuff! From Kernel development on Linux and on different Architectures, to write tech blogs, to enjoy coding random stuff, improve my personal automation and more.
@@ -28,3 +29,6 @@ Thanks for reading!
         <br>
     </p>
 </details>
+<p align="right">
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino)
+</p>
