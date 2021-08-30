@@ -1,5 +1,5 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/PaoloFabioZaino?style=social)](https://twitter.com/PaoloFabioZaino)
-[![Linkedin Badge](https://img.shields.io/badge/-paolofabiozaino?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paolofabiozaino/)](https://www.linkedin.com/in/paolofabiozainon/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolofabiozainon/)
 <!--
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCOaGksYHwlmVPKghnWN-duw?style=social)](https://youtube.com/channel/UCOaGksYHwlmVPKghnWN-duw)
 -->
