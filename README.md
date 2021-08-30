@@ -44,7 +44,7 @@ Thanks for reading!
 
 For work I do not mind really, whatever is fine, at work is the project that trully matters and the customers.
 
-For my free time and fun I like to play with (from top faorite to less favorite):
+For my free time and fun I like to play with (from top faorite on the left to less favorite on the right):
 
 <p align="left">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
