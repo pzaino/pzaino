@@ -21,9 +21,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Apparently, the first computer virus was created in 1986, the same year I started coding. Now, before you jump to conclusions, I wasn't involved at all, I swear! 😄
 
-Check out my blog here if you want to read some of my tutorials and more: https://paolozaino.wordpress.com/
+Check out my blog if you want to read some of my tutorials and more (Linux, macOS, BSD, RISC OS, Retrocoding and Retrocomputing... oh and some security stuff too!): https://paolozaino.wordpress.com/
 
-Thanks for reading!
+### My stats!
 
 <details>
     <summary>Click for my most used Programming Languages list and stats!</summary>
