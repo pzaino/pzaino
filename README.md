@@ -1,4 +1,4 @@
-<img align="left" src="https://img.shields.io/twitter/follow/PaoloFabioZaino?style=social">
+[![Twitter Badge](https://img.shields.io/twitter/follow/PaoloFabioZaino?style=social)](https://twitter.com/PaoloFabioZaino)
 
 ### Hi there 👋
 
@@ -31,5 +31,5 @@ Thanks for reading!
     </p>
 </details>
 <p align="right">
-    <img align="right" width="80" height="24" src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino">
+    [![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino)](https://github.com/pzaino)
 </p>
