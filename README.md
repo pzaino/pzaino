@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/twitter/follow/PaoloFabioZaino?style=social)](https://twitter.com/PaoloFabioZaino)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PaoloFabioZaino)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolofabiozainon/)
 <!--
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCOaGksYHwlmVPKghnWN-duw?style=social)](https://youtube.com/channel/UCOaGksYHwlmVPKghnWN-duw)
