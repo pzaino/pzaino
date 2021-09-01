@@ -21,12 +21,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Apparently, the first computer virus was created in 1986, the same year I started coding. Now, before you jump to conclusions, I wasn't involved at all, I swear! 😄
 
-Check out my blog if you want to read some of my tutorials and more (Linux, macOS, BSD, RISC OS, Retrocoding and Retrocomputing... oh and some security stuff too!): https://paolozaino.wordpress.com/
+Check out my blog if you want to read some of my tutorials and more (Linux, macOS, BSD, RISC OS, Retrocoding and Retrocomputing... oh and some cybersecurity stuff too!): https://paolozaino.wordpress.com/
 
 ### My stats!
 
 <details>
-    <summary>Click for my most used Programming Languages list and stats!</summary>
+    <summary>Click here for my most used Programming Languages list and stats!</summary>
     <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzaino&layout=compact)](https://github.com/pzaino/github-readme-stats" 
         <br>
@@ -34,7 +34,7 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
 </details>
 
 <details>
-    <summary>Click for My GitHub Stats!</summary>
+    <summary>Click here for My GitHub Stats!</summary>
     <p align="center">
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=pzaino&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="PZaino's github stats"/>
         <br>
@@ -45,7 +45,7 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
 
 For work I do not mind really, whatever is fine, at work is the project that trully matters and the customers.
 
-For my free time and fun I like to play with (from top faorite on the left to less favorite on the right):
+For my free time and fun, I like to play with (from favorite on the left to less favorite on the right):
 
 <p align="left">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
