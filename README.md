@@ -48,6 +48,16 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
     </p>
 </details>
 
+### Typical coding day
+
+```mermaid
+   flowchart LR
+   A[Hard coding problem] -->|path to a solution| B(I need more coffee)
+   B --> C{Do I still have coffee?}
+   C -->|Yes| D[I can find a solution!]
+   C -->|No| E[I have ran out of ideas...]
+```
+
 ### Favourite Programming Languages
 
 For work I do not mind really, whatever is fine, at work is the project that trully matters and the customers.
