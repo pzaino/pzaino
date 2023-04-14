@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on a lot of stuff! From Kernel development on Linux and on different Architectures, to write tech blogs, to enjoy coding random stuff, improve my personal automation and more.
 - 🌱 I’m currently learning Machine Learning (yup funny choice of words, I know!) to apply it to Cyber Security and a bunch of other stuff
-- 👯 I’m looking to collaborate on whatver, as long as it has a "C" involved (C, C++, C#), maybe an "A" (ASM) or an "R" (Rust). You'll find me mostly on the [RISC OS Community](https://github.com/RISC-OS-Community) or on my [ZFP Systems](https://github.com/ZFPSystems) organisations.
+- 👯 I’m looking to collaborate on whatever, as long as it has a "C" involved (C, C++, C#), maybe an "A" (ASM) or an "R" (Rust). You'll find me mostly on the [RISC OS Community](https://github.com/RISC-OS-Community) or on my [ZFP Systems](https://github.com/ZFPSystems) organizations.
 - 🤔 I’m looking for help with finishing my many many projects!
 - 💬 Ask me about Assembly, c'mon I know you want to know more about it!
 - 📫 How to reach me: https://paolozaino.wordpress.com/contact/
@@ -30,12 +30,12 @@
 
 Check out my blog if you want to read some of my tutorials and more (Linux, macOS, BSD, RISC OS, Retrocoding and Retrocomputing... oh and some cybersecurity stuff too!): https://paolozaino.wordpress.com/
 
-### My stats!
+### My stats
 
 <details>
     <summary>Click here for my most used Programming Languages list and stats!</summary>
     <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzaino&layout=compact)](https://github.com/pzaino/github-readme-stats" 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzaino&layout=compact)](https://github.com/pzaino/github-readme-stats?PAT_1"
         <br>
     </p>
 </details>
@@ -43,7 +43,7 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
 <details>
     <summary>Click here for My GitHub Stats!</summary>
     <p align="center">
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=pzaino&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="PZaino's github stats"/>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=pzaino&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&PAT_1" alt="PZaino's github stats"/>
         <br>
     </p>
 </details>
@@ -58,9 +58,9 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
    C -->|No| E[I have ran out of ideas...]
 ```
 
-### Favourite Programming Languages
+### Favorite Programming Languages
 
-For work I do not mind really, whatever is fine, at work is the project that trully matters and the customers.
+For work I do not mind really, whatever is fine, at work is the project that truly matters and the customers.
 
 For my free time and fun, I like to play with (from favorite on the left to less favorite on the right):
 
