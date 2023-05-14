@@ -86,9 +86,11 @@ For my free time and fun, I like to play with (from favorite on the left to less
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
     <p align="right">
-        <a href="https://github.com/pzaino"><img src="https://visitor-badge.glitch.com/badge?page_id=pzaino.pzaino" /></a>
+        <a href="https://github.com/pzaino"><img src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino" /></a>
     </p>
-    <p align="left"> 
-         <img src="https://komarev.com/ghpvc/?username=pzaino&label=Profile%20views&color=0e75b6&style=flat" alt="pzaino" /> 
+    <!--
+    <p align="right"> 
+        <a href="https://github.com/pzaino"><img src="https://komarev.com/ghpvc/?username=pzaino&label=Profile%20views&color=0e75b6&style=flat" alt="pzaino" /></a> 
     </p>
+    //-->
 </p>
