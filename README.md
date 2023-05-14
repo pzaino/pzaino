@@ -58,6 +58,12 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
    C -->|No| E[I have ran out of ideas...]
 ```
 
+### Contributions Streak
+
+I love Open Source :)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pzaino&" alt="pzaino" /></p>
+
 ### My scores 
 
 Fun stuff for the boring days!
@@ -73,7 +79,7 @@ Fun stuff for the boring days!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pzaino&show_icons=true&locale=en" alt="pzaino" /></p>
 //-->
 
-Get my Feeds at: <a href="/https://paolozaino.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://paolozaino.wordpress.com/feed/" height="30" width="40" /></a>
+Get my Feeds at:&nbsp;<a href="/https://paolozaino.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://paolozaino.wordpress.com/feed/" height="30" width="40" /></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
