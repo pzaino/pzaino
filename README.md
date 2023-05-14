@@ -62,7 +62,7 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
 
 I love Open Source :)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pzaino&" alt="pzaino" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pzaino&" alt="pzaino" /></p>
 
 ### My scores 
 
