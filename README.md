@@ -73,6 +73,12 @@ Fun stuff for the boring days!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pzaino&show_icons=true&locale=en" alt="pzaino" /></p>
 //-->
 
+Get my Feeds at: <a href="/https://paolozaino.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://paolozaino.wordpress.com/feed/" height="30" width="40" /></a>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Favorite Programming Languages
 
 For work I do not mind really, whatever is fine, at work is the project that truly matters and the customers.
@@ -94,3 +100,4 @@ For my free time and fun, I like to play with (from favorite on the left to less
     </p>
     //-->
 </p>
+
