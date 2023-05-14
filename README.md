@@ -105,6 +105,10 @@ Get my Feeds at:&nbsp;<a href="/https://paolozaino.wordpress.com/feed/" target="
 
 ### Some of my Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RISC OS: Iyonix PC Memory](https://paolozaino.wordpress.com/2023/04/18/risc-os-iyonix-pc-memory/)
+- [Hardware: CPU Architecture classification](https://paolozaino.wordpress.com/2023/03/19/hardware-cpu-architecture-classification/)
+- [Retrocomputing: How to build a Raspberry Pi Server to share files with retro or vintage systems and modern platforms | part 1](https://paolozaino.wordpress.com/2023/03/07/retrocomputing-how-to-build-a-raspberry-pi-server-to-share-files-with-retro-or-vintage-systems-and-modern-platforms-part-1/)
+- [Go Lang: Using Snowflake Data Platform in Go Lang code](https://paolozaino.wordpress.com/2022/09/30/go-lang-using-snowflake-data-platform-in-go-lang-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My favorite Programming Languages
