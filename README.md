@@ -62,8 +62,6 @@ Check out my blog if you want to read some of my tutorials and more (Linux, macO
 
 Fun stuff for the boring days!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pzaino&label=Profile%20views&color=0e75b6&style=flat" alt="pzaino" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pzaino" alt="pzaino" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -89,5 +87,8 @@ For my free time and fun, I like to play with (from favorite on the left to less
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
     <p align="right">
         <a href="https://github.com/pzaino"><img src="https://visitor-badge.glitch.com/badge?page_id=pzaino.pzaino" /></a>
+    </p>
+    <p align="left"> 
+         <img src="https://komarev.com/ghpvc/?username=pzaino&label=Profile%20views&color=0e75b6&style=flat" alt="pzaino" /> 
     </p>
 </p>
