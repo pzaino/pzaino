@@ -21,14 +21,20 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a lot of stuff! From Kernel development on Linux and on different Architectures, to write tech blogs, to enjoy coding random stuff, improve my personal automation and more.
-- 🌱 I’m currently learning Machine Learning (yup funny choice of words, I know!) to apply it to Cyber Security and a bunch of other stuff
-- 👯 I’m looking to collaborate on whatever, as long as it has a "C" involved (C, C++, C#), maybe an "A" (ASM) or an "R" (Rust). You'll find me mostly on the [RISC OS Community](https://github.com/RISC-OS-Community) or on my [ZFP Systems](https://github.com/ZFPSystems) organizations.
-- 🤔 I’m looking for help with finishing my many many projects!
-- 💬 Ask me about Assembly, c'mon I know you want to know more about it!
-- 📫 How to reach me: [Contact Me](https://paolozaino.wordpress.com/contact/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Apparently, the first computer virus was created in 1986, the same year I started coding. Now, before you jump to conclusions, I wasn't involved at all, I swear! 😄
+<details>
+    <summary>Click here for my introduction...</summary>
+    <p>
+         - 📜 If you want to know who am I and what I do, check [here](https://paolozaino.wordpress.com/about/)
+         - 🔭 I’m currently working on a lot of stuff! From Kernel development on Linux and on different Architectures, to write tech blogs, to enjoy coding random stuff, improve my personal automation and more.
+         - 🌱 I’m currently learning Machine Learning (yup funny choice of words, I know!) to apply it to Cyber Security and a bunch of other stuff
+         - 👯 I’m looking to collaborate on whatever, as long as it has a "C" involved (C, C++, C#), maybe an "A" (ASM) or an "R" (Rust). You'll find me mostly on the [RISC OS Community](https://github.com/RISC-OS-Community) or on my [ZFP Systems](https://github.com/ZFPSystems) organizations.
+         - 🤔 I’m looking for help with finishing my many many projects!
+         - 💬 Ask me about Assembly, c'mon I know you want to know more about it!
+         - 📫 How to reach me: [Contact Me](https://paolozaino.wordpress.com/contact/)
+         - 😄 Pronouns: he/him
+         - ⚡ Fun fact: Apparently, the first computer virus was created in 1986, the same year I started coding. Now, before you jump to conclusions, I wasn't involved at all, I swear! 😄
+  </p>
+</details>
 
 [Check out my blog if you want to read some of my tutorials and more (Linux, macOS, BSD, RISC OS, Retrocoding and Retrocomputing... oh and some cybersecurity stuff too!)](https://paolozaino.wordpress.com/)
 
@@ -37,7 +43,7 @@
 <details>
     <summary>Click here for my most used Programming Languages list and stats!</summary>
     <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzaino&layout=compact)](https://github.com/pzaino/github-readme-stats?PAT_1"
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzaino&layout=compact" />
         <br>
     </p>
 </details>
