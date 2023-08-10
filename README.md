@@ -114,10 +114,10 @@ Get my Feeds at:&nbsp;<a href="https://paolozaino.wordpress.com/feed/" target="b
 
 ### Some of my Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Assembly ARM32: Retrieving command line arguments in GNU ASM &lpar;GAS&rpar; on RISC OS](https://paolozaino.wordpress.com/2023/08/10/assembly-arm32-retrieving-command-line-arguments-in-gnu-asm-gas-on-risc-os/)
 - [C programming: How to return a complex object from a function like we can do in Golang and Rust](https://paolozaino.wordpress.com/2023/07/08/c-programming-how-to-return-a-complex-object-from-a-function-like-we-can-do-in-golang-and-rust/)
 - [RISC OS: Iyonix PC Memory](https://paolozaino.wordpress.com/2023/04/18/risc-os-iyonix-pc-memory/)
 - [Hardware: CPU Architecture classification](https://paolozaino.wordpress.com/2023/03/19/hardware-cpu-architecture-classification/)
-- [Retrocomputing: How to build a Raspberry Pi Server to share files with retro or vintage systems and modern platforms | part 1](https://paolozaino.wordpress.com/2023/03/07/retrocomputing-how-to-build-a-raspberry-pi-server-to-share-files-with-retro-or-vintage-systems-and-modern-platforms-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My favorite Programming Languages
