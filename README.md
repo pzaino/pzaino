@@ -114,10 +114,10 @@ Get my Feeds at:&nbsp;<a href="https://paolozaino.wordpress.com/feed/" target="b
 
 ### Some of my Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New alpha release v0.9.4 for the CROWler GoLang port](https://paolozaino.wordpress.com/2024/06/27/new-alpha-release-v0-9-4-for-the-crowler-golang-port/)
 - [Ethical Hacking: Recovering lost passwords with John the Ripper](https://paolozaino.wordpress.com/2023/11/03/ethical-hacking-recovering-lost-passwords-with-john-the-ripper/)
 - [Assembly ARM32: Retrieving command line arguments in GNU ASM &lpar;GAS&rpar; on RISC OS](https://paolozaino.wordpress.com/2023/08/10/assembly-arm32-retrieving-command-line-arguments-in-gnu-asm-gas-on-risc-os/)
 - [C programming: How to return a complex object from a function like we can do in Golang and Rust](https://paolozaino.wordpress.com/2023/07/08/c-programming-how-to-return-a-complex-object-from-a-function-like-we-can-do-in-golang-and-rust/)
-- [RISC OS: Iyonix PC Memory](https://paolozaino.wordpress.com/2023/04/18/risc-os-iyonix-pc-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My favorite Programming Languages
