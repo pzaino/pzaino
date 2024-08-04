@@ -7,8 +7,13 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - name: Harden Runner
+              uses: step-security/harden-runner@0d381219ddf674d61a7572ddd19d7941e271515c # v2.9.0
+              with:
+                egress-policy: audit
+
+            - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2.7.0
+            - uses: gautamkrishnar/blog-post-workflow@ba49e6584c153fc9dc2d43e02bc30bdb2a6b1b07 # master
               with: 
                 max_post_count: "4"
                 feed_list: "https://paolozaino.wordpress.com/feed/"
