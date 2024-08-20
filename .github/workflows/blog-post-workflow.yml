@@ -13,7 +13,7 @@ jobs:
                 egress-policy: audit
 
             - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
-            - uses: gautamkrishnar/blog-post-workflow@ba49e6584c153fc9dc2d43e02bc30bdb2a6b1b07 # master
+            - uses: gautamkrishnar/blog-post-workflow@ccb6032125dc5032b8b4f70a355479a3d76902f4 # master
               with: 
                 max_post_count: "4"
                 feed_list: "https://paolozaino.wordpress.com/feed/"
