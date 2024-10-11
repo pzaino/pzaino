@@ -133,7 +133,10 @@ For my free time and fun, I like to play with (from favorite on the left to less
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <p align="right">
+         [![HitCount](https://hits.dwyl.com/pzaino/pzaino.svg?style=flat-square)](http://hits.dwyl.com/pzaino/pzaino)
+    <!--
         <a href="https://github.com/pzaino"><img src="https://visitor-badge.glitch.me/badge?page_id=pzaino.pzaino" /></a>
+        //-->
     </p>
     <!--
     <p align="right"> 
