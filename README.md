@@ -114,10 +114,10 @@ Get my Feeds at:&nbsp;<a href="https://paolozaino.wordpress.com/feed/" target="b
 
 ### Some of my Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI: The Security Challenges of Liquid Neural Networks](https://paolozaino.wordpress.com/2025/02/11/ai-the-security-challenges-of-liquid-neural-networks/)
 - [AI: Liquid Neural Networks in few words](https://paolozaino.wordpress.com/2024/10/20/ai-liquid-neural-networks-in-few-words/)
 - [Software Development: Software Engineering liability](https://paolozaino.wordpress.com/2024/07/29/software-development-software-engineering-liability/)
 - [Let’s write a bytecode interpreter in… many programming languages!](https://paolozaino.wordpress.com/2024/07/11/lets-write-a-bytecode-interpreter-in-many-programming-languages/)
-- [New alpha release v0.9.4 for the CROWler GoLang port](https://paolozaino.wordpress.com/2024/06/27/new-alpha-release-v0-9-4-for-the-crowler-golang-port/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My favorite Programming Languages
