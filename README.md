@@ -69,7 +69,7 @@
 
 ### Contributions Streak
 
-I love Open Source :)
+My contributions to Open Source projects:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pzaino&" alt="pzaino" /></p>
 
@@ -78,6 +78,8 @@ I love Open Source :)
 Fun stuff for the boring days!
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pzaino" alt="pzaino" /></a></p>
+
+[![An image of @pzaino's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pzaino)](https://holopin.io/@pzaino)
 
 <h3 align="left">Some of the Languages and Tools I play/played with:</h3>
 <p align="left">
