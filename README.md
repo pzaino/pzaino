@@ -116,10 +116,10 @@ Get my Feeds at:&nbsp;<a href="https://paolozaino.wordpress.com/feed/" target="b
 
 ### Some of my Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ZFP Systems and the RISC OS Community on GitHub at the RISC OS London Show 2025](https://paolozaino.wordpress.com/2025/10/18/zfp-systems-and-the-risc-os-community-on-github-at-the-risc-os-london-show-2025/)
 - [AI: Why Generative AI Hallucinates. All the Causes You Should Know](https://paolozaino.wordpress.com/2025/09/09/ai-why-generative-ai-hallucinates-all-the-causes-you-should-know/)
 - [Merlin OS: Building Trust in RISC OS Merlin with Formal Verification Methods](https://paolozaino.wordpress.com/2025/08/08/merlin-os-building-trust-in-risc-os-merlin-with-formal-verification-methods/)
 - [Software Engineering: Rethinking the Two Most Misused Mantras in Software Engineering](https://paolozaino.wordpress.com/2025/06/15/software-engineering-rethinking-the-two-most-misused-mantras-in-software-engineering/)
-- [AI: The Security Challenges of Liquid Neural Networks](https://paolozaino.wordpress.com/2025/02/11/ai-the-security-challenges-of-liquid-neural-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My favorite Programming Languages
