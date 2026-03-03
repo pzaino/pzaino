@@ -52,8 +52,7 @@
 <details>
     <summary>Click <b>here</b> for my GitHub stats!</summary>
     <p align="center">
-         <!-- <img align="center" src="https://github-profile-trophy-tawny.vercel.app/api?username=pzaino&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&PAT_1" alt="PZaino's github stats"/> //-->
-             [![trophy](https://ithub-profile-trophy-tawny.vercel.app/?username=pzaino)](https://github.com/ryo-ma/github-profile-trophy)
+         <img align="center" src="https://github-profile-trophy-tawny.vercel.app/api?username=pzaino&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&PAT_1" alt="Paolo Fabio Zaino's github stats"/>
         <br>
     </p>
 </details>
