@@ -44,7 +44,7 @@
 <details>
     <summary>Click <b>here</b> for my GitHub most used programming languages list and stats!</summary>
     <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzaino&layout=compact" />
+        <img align="center" src="https://github.com/pzaino/github-stats/blob/master/generated/languages.svg" />
         <br>
     </p>
 </details>
