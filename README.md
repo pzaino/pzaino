@@ -77,7 +77,7 @@ My contributions to Open Source projects:
 
 Fun stuff for the boring days!
 
-<p align="center><img align="center" src="https://github-profile-trophy-tawny.vercel.app/api?username=pzaino&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&PAT_1" alt="Paolo Fabio Zaino's github stats"/></p>p>
+<p align="center><img align="center"><img align="center" src="https://github-profile-trophy-tawny.vercel.app/api?username=pzaino&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&PAT_1" alt="Paolo Fabio Zaino's github stats"/></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pzaino" alt="pzaino" /></a></p>
 
