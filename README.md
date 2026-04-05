@@ -81,7 +81,8 @@ Fun stuff for the boring days!
 
 [![An image of @pzaino's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pzaino)](https://holopin.io/@pzaino)
 
-<h3 align="left">Some of the Languages and Tools I play/played with:</h3>
+### Some of the Languages and Tools I play/played with:
+
 <p align="left">
          <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
          <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -112,9 +113,12 @@ Fun stuff for the boring days!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pzaino&show_icons=true&locale=en" alt="pzaino" /></p>
 //-->
 
+### My News Feed
+
 Get my Feeds at:&nbsp;<a href="https://paolozaino.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://paolozaino.wordpress.com/feed/" height="30" width="40" /></a>
 
 ### Some of my Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [DME Project: Porting a lot of Themes to the new ExtTheme!](https://paolozaino.wordpress.com/2025/11/30/dme-project-porting-a-lot-of-themes-to-the-new-exttheme/)
 - [UltimaVM: Update 2025-11-08 – More features added to Ultima – Function pointers, Code sections and more](https://paolozaino.wordpress.com/2025/11/09/ultimavm-update-2025-11-08-more-features-added-to-ultima-function-pointers-code-sections-and-more/)
