@@ -120,10 +120,10 @@ Get my Feeds at:&nbsp;<a href="https://paolozaino.wordpress.com/feed/" target="b
 ### Some of my Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI: Debugging a Tiny LLM to Understand What Happens Between a Prompt and a Response](https://paolozaino.wordpress.com/2026/06/13/ai-debugging-a-tiny-llm-to-understand-what-happens-between-a-prompt-and-a-response/)
 - [RISC OS: Running ShareFSServer alongside VirtualRPC, RPCEmu and Arculator with a virtual network adapter](https://paolozaino.wordpress.com/2026/05/31/risc-os-running-sharefsserver-alongside-virtualrpc-rpcemu-and-arculator-with-a-virtual-network-adapter/)
 - [AI: AI Systems Are No Longer Just Models, and Runtime Verification Is Becoming the New Security Boundary](https://paolozaino.wordpress.com/2026/05/16/ai-ai-systems-are-no-longer-just-models-and-runtime-verification-is-becoming-the-new-security-boundary/)
 - [DME Project: Porting a lot of Themes to the new ExtTheme!](https://paolozaino.wordpress.com/2025/11/30/dme-project-porting-a-lot-of-themes-to-the-new-exttheme/)
-- [UltimaVM: Update 2025-11-08 – More features added to Ultima – Function pointers, Code sections and more](https://paolozaino.wordpress.com/2025/11/09/ultimavm-update-2025-11-08-more-features-added-to-ultima-function-pointers-code-sections-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My favorite Programming Languages
